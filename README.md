@@ -5,7 +5,7 @@ Day 1 - Python, Pandas & Pharmacia
 
 Day 2 - Estatísticas, Dados e Distribuições
 
-Day 3 - Distribuições de Correlações
+Day 3 - Correlações e Causalidade
 
 Day 4 - Merge e Análise de Resultados
 
