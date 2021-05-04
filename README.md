@@ -3,7 +3,7 @@ Semana de Imersão de Dados da Alura, com projeto de Biogenética.
 
 Day 1 - Python, Pandas & Pharmacia
 
-Day 2 - Estatísticas, Dados e Visualizões
+Day 2 - Estatísticas, Dados e Distribuições
 
 Day 3 - Distribuições de Correlações
 
