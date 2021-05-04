@@ -7,6 +7,6 @@ Day 2 - Estatísticas, Dados e Visualizões
 
 Day 3 - Distribuições de Correlações
 
-Day 4 - Machine Learning
+Day 4 - Merge e Análise de Resultados
 
-Day 5 - Validação de Modelo
+Day 5 - Machine Learning e Sci-Kit Learning
