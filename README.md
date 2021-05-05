@@ -9,4 +9,4 @@ Day 3 - Correlações e Causalidade
 
 Day 4 - Merge e Análise de Resultados
 
-Day 5 - Machine Learning e Sci-Kit Learning
+Day 5 - Machine Learning e Sci-Kit Learn
