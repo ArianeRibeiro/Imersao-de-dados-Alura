@@ -1,5 +1,5 @@
 # Imersao-de-dados-Alura
-Semana de Imersão de Dados da Alura, com projeto de Biogenética.
+Semana de Imersão de Dados da Alura, com projeto de Biogenética  inspirado em um desafio do Laboratory innovation science at Harvard.
 
 Day 1 - Python, Pandas & Pharmacia
 
